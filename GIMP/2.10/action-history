@@ -1,0 +1,24 @@
+# GIMP action-history
+
+(history-item "view-zoom-in" 4)
+(history-item "tools-rect-select" 4)
+(history-item "tools-bucket-fill" 1)
+(history-item "view-zoom-out" 0)
+(history-item "file-export-as" 2)
+(history-item "tools-size-decrease" 2)
+(history-item "edit-copy" 0)
+(history-item "edit-paste" 0)
+(history-item "image-resize" 1)
+(history-item "file-open" 0)
+(history-item "view-close" 1)
+(history-item "layers-new" 0)
+(history-item "file-save" 0)
+(history-item "tools-move" 0)
+(history-item "tools-vector" 0)
+(history-item "file-quit" 1)
+(history-item "layers-delete" 0)
+(history-item "tools-paintbrush" 0)
+(history-item "select-all" 0)
+(history-item "tools-pencil" 1)
+
+# end of action-history

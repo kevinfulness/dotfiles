@@ -1,0 +1,1 @@
+{"Profiles":{"alsa_card.pci-0000_00_1b.0":"output:analog-stereo+input:iec958-stereo"},"Sink":"alsa_output.pci-0000_00_1b.0.analog-stereo","Source":"alsa_input.pci-0000_00_1b.0.iec958-stereo","SinkPort":"analog-output-speaker","SourcePort":"iec958-stereo-input","SinkVolume":0.760040283203125,"SourceVolume":0.1525115966796875}

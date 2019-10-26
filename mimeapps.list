@@ -1,0 +1,31 @@
+[Default Applications]
+application/x-gnome-saved-search=dde-file-manager.desktop
+image/webp=firefox.desktop
+x-scheme-handler/ftp=firefox.desktop
+x-scheme-handler/chrome=firefox.desktop
+video/webm=firefox.desktop
+image/x-gray=deepin-image-viewer.desktop
+image/x-icb=deepin-image-viewer.desktop
+image/x-png=deepin-image-viewer.desktop
+image/x-portable-anymap=deepin-image-viewer.desktop
+image/x-xbitmap=deepin-image-viewer.desktop
+image/x-xpixmap=deepin-image-viewer.desktop
+image/x-pcx=deepin-image-viewer.desktop
+image/svg+xml-compressed=deepin-image-viewer.desktop
+image/vnd.wap.wbmp=deepin-image-viewer.desktop
+
+[Added Associations]
+application/x-gnome-saved-search=dde-file-manager.desktop;
+image/webp=firefox.desktop;
+x-scheme-handler/ftp=firefox.desktop;
+x-scheme-handler/chrome=firefox.desktop;
+video/webm=firefox.desktop;
+image/x-gray=deepin-image-viewer.desktop;
+image/x-icb=deepin-image-viewer.desktop;
+image/x-png=deepin-image-viewer.desktop;
+image/x-portable-anymap=deepin-image-viewer.desktop;
+image/x-xbitmap=deepin-image-viewer.desktop;
+image/x-xpixmap=deepin-image-viewer.desktop;
+image/x-pcx=deepin-image-viewer.desktop;
+image/svg+xml-compressed=deepin-image-viewer.desktop;
+image/vnd.wap.wbmp=deepin-image-viewer.desktop;
